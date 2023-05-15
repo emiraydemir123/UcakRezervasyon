@@ -23,8 +23,3 @@ Bulunan sefere kayıt aşağıdaki gibib yapılır.
 Sefer no,Ad,Soyad,Koltuk no yazılarak kayıt yapılır.
 
 Program kayıttan sonra güncel sefer bilgilerini göstererek son bulur.
-
-
-
-
-
